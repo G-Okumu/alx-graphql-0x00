@@ -1,0 +1,12 @@
+{
+    "data": {
+        "episode": {
+            "id": "episode-id-2",
+            "name": "episode Name",
+            "status": "episode Status",
+            "species": "episode Species",
+            "type": "episode Type",
+            "gender": "episode Gender"
+        }
+    }
+}
