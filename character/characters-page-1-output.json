@@ -1,0 +1,14 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "character-id-1",
+          "name": "Character Name 1",
+          "status": "Character Status 1",
+          "image": "Character Image URL 1"
+        }
+      ]
+    }
+  }
+}
