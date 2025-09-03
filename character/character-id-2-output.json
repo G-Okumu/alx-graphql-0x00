@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "character-id-2",
+      "name": "Character Name",
+      "status": "Character Status",
+      "species": "Character Species",
+      "type": "Character Type",
+      "gender": "Character Gender"
+    }
+  }
+}
